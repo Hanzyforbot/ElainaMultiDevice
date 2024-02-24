@@ -36,24 +36,24 @@ global.sdc = 'https://discord.com/Zyko' //discord
 global.snh = 'https://nhentai.net/' //nhentai
 
 /*============== PAYMENT ==============*/
-global.pdana = '082220427314' //pulsa1
-global.ppulsa = '082220427314' //pulsa2
+global.pdana = '0895360006171' //pulsa1
+global.ppulsa = '089631810306' //pulsa2
 global.povo = '-' //ovo
 global.gopay = '-' //gopay
-global.dana = '082220427314' //dana
+global.dana = '0895360006171' //dana
 global.sid = 'https://s.id/ReyzShop' //s.id
 global.psaweria = 'https://saweria.com/ArilXd' //saweria
 
 /*============== NOMOR ==============*/
-global.nomorwa = '6282220427314' //whatsapp
-global.nomorbot = '6282220250401' //nomor Bot
-global.nomorown = '6282220427314' //nomor Owner
-global.namebot = 'ᴇʟᴀɪɴᴀ ᴀɪ' //nama Bot
-global.nameown = 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ' //nama Owner
+global.nomorwa = '62895360006171' //whatsapp
+global.nomorbot = '6289631810306' //nomor Bot
+global.nomorown = '62895360006171' //nomor Owner
+global.namebot = 'elaina md' //nama Bot
+global.nameown = 'hanz? ' //nama Owner
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6282220427314', 'ᴀʀɪʟ ᴀʀᴅɪᴀɴsʏᴀʜ ', true] //creator/owner
+  ['62895360006171', ' hanz? ', true] //creator/owner
 ] //put your number here
 global.mods = [] //moderator
 global.prems = [] //prem bukan disini
@@ -328,7 +328,7 @@ global.wait = '🚩 ʟᴏᴀᴅɪɴɢ ᴘʟᴇᴀsᴇ ᴡᴀɪᴛ... '
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+62 822-2042-7314'
+global.phn = '+62 895-3600-0171'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -368,7 +368,7 @@ global.htjava = '⫹⫺'    //hiasan
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'ᴇʟᴀɪɴᴀ ᴍᴜʟᴛɪᴅᴇᴠɪᴄᴇ'
+global.stickpack = 'made by elaina md'
 global.stickauth = `☂︎\n𝗘\nl\na\ni\nn\na\n-\n𝗕\n𝗢\n𝗧\n✦\n\n⫹⫺ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ\nwa.me/${global.nomorbot}`
 global.packname = 'sᴛɪᴄᴋᴇʀ ʀᴇǫᴜᴇsᴛ ʙʏ'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ᴇʟᴀɪɴᴀ ᴀɪ'
